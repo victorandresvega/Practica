@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"edit";
+    cout<<"edit"<<endl;
+    cout<<"new change";
     return 0;
+
 }
